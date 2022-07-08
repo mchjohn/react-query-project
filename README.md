@@ -17,7 +17,7 @@ React Query é uma biblioteca utilizada para fazer fetch, cache e update de dado
 #### Rodando projeto
 
 - Clone o repo  
-`git clone `  
+`git clone git@github.com:mchjohn/react-query-project.git`  
 
 - Instale as dependências  
 `yarn`
